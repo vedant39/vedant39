@@ -19,7 +19,6 @@ I'm a passionate and motivated coder and recent **BCA graduate from MIT ADT Univ
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-"Code is like humor. When you have to explain it, it’s bad." - Cory House
 ---
 [![](https://visitcount.itsvg.in/api?id=vedant39&icon=0&color=0)](https://visitcount.itsvg.in)
 
